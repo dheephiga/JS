@@ -1,5 +1,3 @@
-23/10/2021  Video 2 21:56 hrs 01hl folder
-
 JAVASCRIPT ENGINE:
 1. create two files index.html and script.js
 2. In the html, build the backbone from !DOCTYPE 
@@ -7,8 +5,11 @@ using tab space and inside the body type <script> tag
 <script>".\script.js"<\script>
 3. Installed a V8 engine that is node js and included it as
 a path variable. Just type node -v in the cmd to make
-sure it is installed since it returns a version number
+sure it is installed since it returns a version number.
+type in the classic hello world 
+
+console.log("Hello World!");
+
 4. Now back to VScode terminal typing node followed by 
-the filename, which is script.js here, got error initially
-gotta restart lets see.
-5. 
+the filename, which is script.js here, got error initially,
+do restart hola it works
