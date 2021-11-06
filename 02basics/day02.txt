@@ -1,0 +1,15 @@
+Variables
+
+var --> simple variable like in other languages 
+let
+const
+
+// used to comment
+
+var name = Alligator
+
+in double quotes "" goes the string 
+and rest in without them 
+no need to say int, float, etc.
+
+False is different from false
